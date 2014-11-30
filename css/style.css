@@ -1,0 +1,21 @@
+body{
+    padding: 100px 20px 100px 20px;
+}
+li{display: block}
+ul{padding: 0}
+
+form  button[type="submit"] {margin-top: 24px}
+
+.list-group label{padding-left:0; margin-right:15px}
+.text-error{
+    text-decoration: line-through;
+    color:lightcoral;
+}
+.navbar-brand-img{
+    float:left;
+    padding: 8px 0 0 15px
+}
+.navbar-brand-img > img{
+    height: 48px;
+    width: 48px;
+}
